@@ -1,3 +1,4 @@
 # swift-easy-app
 
-* 簡単なSwiftのアプリが入っている。  
+`find-wally` ウォーリーを探せ  
+`wally-images` ウォーリーを探せに用いいる素材    
